@@ -11,4 +11,6 @@ function logShout(string){
   console.log(trims).toUpperCase()
 }
 
-function 
+function logWhisper() {
+  
+}
